@@ -1,0 +1,28 @@
+.chef-img{
+    height: 653px;
+    width: 600px;
+    object-fit: cover;
+}
+.About-sec{
+    display: flex;
+   
+}
+
+.text-container p{
+    font-family: "Montserrat Alternates", sans-serif;
+    font-size: 20px;
+    color: rgb(91, 90, 90);
+    line-height: 30px;
+    margin-bottom: 30px;
+}
+.intro{
+    font-size: 2rem;
+    font-family: "Great Vibes", cursive;
+    color: #9C7554;
+    margin-bottom: 20px;
+}
+.text-container{
+    margin-left: 50px;
+    margin-top: 20px;
+    margin-right: 200px;
+}

@@ -1,0 +1,71 @@
+.discripition {
+    font-family: cursive;
+    font-size: 25px;
+    font-weight: bold;
+    color: #855005;
+}
+
+.section1 {
+    background-image: url(images/image.png);
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    width: 1190px;
+    height: 630px;
+    margin-left: 120px;
+    margin-top: 100px;
+    margin-bottom: 100px;
+    padding-left: 80px;
+    padding-top: 20px;
+    border-radius: 20px;
+}
+
+.headline {
+    display: flex;
+    justify-content: center;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: xx-large;
+    color: #855004;
+    font-weight: bold;
+}
+
+.section1 p {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: large;
+    margin-bottom: 10px;
+    margin-top: 10px;
+    color: #855004;
+    font-weight: bold;
+}
+
+.section1 li {
+    font-family: Arial, Helvetica, sans-serif;
+    color: rgb(101, 100, 100);
+    letter-spacing: 1px;
+}
+
+.section2 {
+    background-image: url(images/pngtree-baking-ingredients-flour-eggs-milk-bakeware-on-white-wooden-background-with-picture-image_15452847.jpg);
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    width: 1190px;
+    height: 900px;
+    margin-left: 120px;
+    margin-top: 100px;
+    margin-bottom: 100px;
+    padding-left: 80px;
+    padding-top: 20px;
+    border-radius: 20px;
+}
+.section2 h2{
+    font-size: xx-large;
+    margin-top: 19px;
+    margin-bottom: 15px;
+}
+.section2 li{
+    font-size: large;
+    line-height: 25px;
+}
